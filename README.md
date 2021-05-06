@@ -2,7 +2,7 @@
 # HackerRank-ShellChallenge-Solutions
 
 ## Description
-My solutions for some of the questions from the Linux Shell challenge on [HackerRank](https://www.hackerrank.com/domains/shell).
+My solutions for some of the questions from the Linux Shell Challenge on [HackerRank](https://www.hackerrank.com/domains/shell).
 
 ## Bash Challenges
 
@@ -40,7 +40,22 @@ My solutions for some of the questions from the Linux Shell challenge on [Hacker
 |14|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution](TextProcessing/Tail-of-a-Text-File-2.sh) |
 |15|['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [Solution](TextProcessing/Tr-Command-1.sh) |
 |16|['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem) | [Solution](TextProcessing/Tr-Command-2.sh) |
-
+|17|['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [Solution](TextProcessing/'Tr'-Command-3.sh) |
+|18|[Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem) | [Solution](TextProcessing/Sort-Command-1.sh) |
+|19|[Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) | [Solution](TextProcessing/Sort-Command-2.sh) |
+|20|[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) | [Solution](TextProcessing/Sort-Command-3.sh) |
+|21|[Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) | [Solution](TextProcessing/Sort-Command-4.sh) |
+|22|[Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) | [Solution](TextProcessing/Sort-Command-5.sh) |
+|23|[Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | [Solution](TextProcessing/Sort-command-6.sh) |
+|24|[Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) | [Solution](TextProcessing/Sort-command-7.sh) |
+|25|['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem) | [Solution](TextProcessing/Uniq-Command-1.sh) |
+|26|['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | [Solution](TextProcessing/Uniq-Command-2.sh) |
+|27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution](TextProcessing/Uniq-Command-3.sh) |
+|28|['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [Solution](TextProcessing/Uniq-Command-4.sh) |
+|29|[Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem) | [Solution](TextProcessing/Paste-1.sh) |
+|30|[Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Solution](TextProcessing/Paste-2.sh) |
+|31|[Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem) | [Solution](TextProcessing/Paste-3.sh) |
+|32|[Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | [Solution](TextProcessing/Paste-4.sh) |
 
 
 ## More about bash
