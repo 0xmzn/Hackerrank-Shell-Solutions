@@ -40,7 +40,7 @@ My solutions for some of the questions from the Linux Shell Challenge on [Hacker
 |14|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution](TextProcessing/Tail-of-a-Text-File-2.sh) |
 |15|['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [Solution](TextProcessing/Tr-Command-1.sh) |
 |16|['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem) | [Solution](TextProcessing/Tr-Command-2.sh) |
-|17|['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [Solution](TextProcessing/'Tr'-Command-3.sh) |
+|17|['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [Solution](TextProcessing/Tr-Command-3.sh) |
 |18|[Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem) | [Solution](TextProcessing/Sort-Command-1.sh) |
 |19|[Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) | [Solution](TextProcessing/Sort-Command-2.sh) |
 |20|[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) | [Solution](TextProcessing/Sort-Command-3.sh) |
