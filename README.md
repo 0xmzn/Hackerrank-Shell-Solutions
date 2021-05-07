@@ -58,6 +58,20 @@ My solutions for some of the questions from the Linux Shell Challenge on [Hacker
 |32|[Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | [Solution](TextProcessing/Paste-4.sh) |
 
 
+## Arrays in Bash
+
+| Number | Challenge | Solutions |
+|:------:|-----------|:---------:|
+|1|[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem) | [Solution](ArraysInBash/Read-in-an-Array.sh) |
+|2|[Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem) | [Solution](ArraysInBash/Slice-an-Array.sh) |
+|3|[Filter an Array with Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](ArraysInBash/Filter-an-Array-with-Patterns.sh) |
+|4|[Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution](ArraysInBash/Concatenate-an-array-with-itself.sh) |
+|5|[Display an element of an array](https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution](ArraysInBash/Display-an-element-of-an-array.sh) |
+|6|[Count the number of elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [Solution](ArraysInBash/Count-the-number-of-elements-in-an-Array.sh) |
+|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](ArraysInBash/Remove-the-First-Capital-Letter-from-Each-Element.sh) |
+|8|[Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [Solution](ArraysInBash/Lonely-Integer-Bash!.sh) |
+
+
 ## More about bash
 * [tldp - Bash Beginners Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
 
