@@ -71,7 +71,27 @@ My solutions for some of the questions from the Linux Shell Challenge on [Hacker
 |7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](ArraysInBash/Remove-the-First-Capital-Letter-from-Each-Element.sh) |
 |8|[Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [Solution](ArraysInBash/Lonely-Integer-Bash!.sh) |
 
+## Grep Sed Awk
+
+| Number | Challenge | Solutions |
+|:------:|-----------|:---------:|
+|1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution](GrepSedAwk/Grep-1.sh) |
+|2|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution](GrepSedAwk/Grep-2.sh) |
+|3|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution](GrepSedAwk/Grep-3.sh) |
+|4|['Grep' -A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [Solution](GrepSedAwk/Grep-A.sh) |
+|5|['Grep' -B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [Solution](GrepSedAwk/Grep-B.sh) |
+|6|['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [Solution](GrepSedAwk/Sed-command-1.sh) |
+|7|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution](GrepSedAwk/Sed-command-2.sh) |
+|8|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](GrepSedAwk/Sed-command-3.sh) |
+|9|['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](GrepSedAwk/Sed-command-4.sh) |
+|10|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](GrepSedAwk/Sed-command-5.sh) |
+|11|['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem) | [Solution](GrepSedAwk/Awk-1.sh) |
+|12|['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem) | [Solution](GrepSedAwk/Awk-2.sh) |
+|13|['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | [Solution](GrepSedAwk/Awk-3.sh) |
+|14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](GrepSedAwk/Awk-4.sh) |
 
 ## More about bash
 * [tldp - Bash Beginners Guide](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
+
+
 
